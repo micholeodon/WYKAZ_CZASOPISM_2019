@@ -8,7 +8,7 @@ In 2019 [Ministry of Science and Higher Education in Poland](https://www.gov.pl/
 Go to the project folder and run following command in your terminal:
 
 ```
-python WYKAZ.py
+$ python WYKAZ.py
 ```
 
 After loading you will see:
