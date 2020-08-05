@@ -23,7 +23,8 @@ Choose:
 ```
 
 Type `0` and hit ENTER to exit the program.
-Type `1` to proceed to selection menu:
+
+Type `1` and hit ENTER to proceed to selection menu:
 
 ```
 Let's search !
@@ -34,9 +35,13 @@ Choose:
 ```
 
 Choose `1` to search the list of journals or `2` to search the list of conferences.
+
 After selection you will be asked to provide range of points of your scope (integer numbers).
+
 Enter positive integer number (range 0 to 200) and hit ENTER to provide a limit on minimum number of points.
+
 Do it again for maximum number of points.
+
 For example:
 
 ```
@@ -48,7 +53,10 @@ Maximum points :
 (OPTIONAL) Partial name OR single keywords (separate with ; ) : 
 ```
 You will be asked to enter names or keywords separated with semicolons.
+
 You can also hit ENTER without providing names or keywords.
+
+
 
 ## Examples
 
