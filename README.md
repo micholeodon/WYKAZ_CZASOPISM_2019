@@ -51,7 +51,25 @@ Maximum points :
 You will be asked to enter names or keywords separated with semicolons.
 You can also hit ENTER without providing names or keywords.
 
+After this you will see the results like this:
 
+```
+                                                                                                Tytuł 1  Punkty
+264   IEEE Journal of Selected Topics in Signal Processing                                               200.0 
+268   IEEE SIGNAL PROCESSING MAGAZINE                                                                    200.0 
+275   IEEE TRANSACTIONS ON IMAGE PROCESSING                                                              200.0 
+474   MECHANICAL SYSTEMS AND SIGNAL PROCESSING                                                           200.0 
+2048  NeuroImage-Clinical                                                                                140.0 
+1474  IEEE TRANSACTIONS ON SIGNAL PROCESSING                                                             140.0 
+1481  IEEE-ACM Transactions on Audio Speech and Language Processing                                      140.0 
+1354  FUEL PROCESSING TECHNOLOGY                                                                         140.0 
+1961  MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES MICROSTRUCTURE AND PROCESSING  140.0 
+1974  MEDICAL IMAGE ANALYSIS                                                                             140.0 
+1782  JOURNAL OF MATERIALS PROCESSING TECHNOLOGY                                                         140.0 
+2296  SIGNAL PROCESSING                                                                                  140.0 
+1502  INFORMATION PROCESSING & MANAGEMENT                                                                140.0 
+2047  NEUROIMAGE                                                                                         140.0
+```
 
 ## Examples
 
