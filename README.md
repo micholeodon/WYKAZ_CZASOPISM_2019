@@ -1,3 +1,11 @@
+# UPDATE 26.XII.2022
+
+This repository contains outdated excel sheet.
+
+For now, I recommend using another (not my authorship) tool here - https://punktoza.pl/
+It is more frequently updated and convenient to use.
+Enjoy!
+
 # WYKAZ_CZASOPISM_2019
 
 ## Bit of history ...
